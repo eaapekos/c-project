@@ -1,0 +1,816 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+                              JUnitTest.o (init_stdio)
+C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+                              C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o) (buffer_init)
+C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                              C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o) (serial_new_instance)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                              C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+                              JUnitTest.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+                              JUnitTest.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                              C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o) (malloc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+                              C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o) (__iob)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o)
+                              JUnitTest.o (printf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o) (vfprintf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (strnlen_P)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (strnlen)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (fputc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (__ultoa_invert)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+sq                  0x16              JUnitTest.o
+__flp               0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+__iob               0x6               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .text          0x00000000        0x0 JUnitTest.o
+ .data          0x00000000        0x0 JUnitTest.o
+ .bss           0x00000000        0x0 JUnitTest.o
+ .text.test_led_off
+                0x00000000       0x36 JUnitTest.o
+ .text.test_led_on
+                0x00000000       0x34 JUnitTest.o
+ .text.test_WaitTillAnyButtonPressed
+                0x00000000       0x1a JUnitTest.o
+ COMMON         0x00000000       0x16 JUnitTest.o
+ .text          0x00000000        0x0 LED.o
+ .data          0x00000000        0x0 LED.o
+ .bss           0x00000000        0x0 LED.o
+ .text.intro    0x00000000       0x3c LED.o
+ .text.win      0x00000000       0x2c LED.o
+ .text.blink_led
+                0x00000000       0x16 LED.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .debug_info    0x00000000       0xa7 main.o
+ .debug_abbrev  0x00000000       0x67 main.o
+ .debug_aranges
+                0x00000000       0x18 main.o
+ .debug_line    0x00000000       0x2d main.o
+ .debug_str     0x00000000      0x18a main.o
+ .comment       0x00000000       0x31 main.o
+ .text          0x00000000        0x0 sequence.o
+ .data          0x00000000        0x0 sequence.o
+ .bss           0x00000000        0x0 sequence.o
+ .text.level5   0x00000000       0xe0 sequence.o
+ .text.level4   0x00000000       0xba sequence.o
+ .text.level3   0x00000000       0xac sequence.o
+ .text.level2   0x00000000       0x92 sequence.o
+ .text.level1   0x00000000       0x70 sequence.o
+ .text          0x00000000        0x0 setup.o
+ .data          0x00000000        0x0 setup.o
+ .bss           0x00000000        0x0 setup.o
+ .text          0x00000000        0x0 UserInput.o
+ .data          0x00000000        0x0 UserInput.o
+ .bss           0x00000000        0x0 UserInput.o
+ .text.WaitTillAnyButtonPressed
+                0x00000000       0x5e UserInput.o
+ .text          0x00000000        0x0 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .data          0x00000000        0x0 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .bss           0x00000000        0x0 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .text          0x00000000        0x0 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .data          0x00000000        0x0 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .bss           0x00000000        0x0 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .text.buffer_is_empty
+                0x00000000       0x10 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .text.buffer_no_of_items
+                0x00000000        0xa C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .text.buffer_clear
+                0x00000000       0x12 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .text          0x00000000        0x0 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+ .data          0x00000000        0x0 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+ .bss           0x00000000        0x0 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+ .text.serial_send_bytes
+                0x00000000       0x8c C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00800200         0x0000fe00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+LOAD JUnitTest.o
+LOAD LED.o
+LOAD main.o
+LOAD sequence.o
+LOAD setup.o
+LOAD UserInput.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
+LOAD C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6\libatmega2560.a
+END GROUP
+                0x00100000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                0x0000fe00                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xfe00
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1298
+ *(.vectors)
+ .vectors       0x00000000       0xe4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000000e4                . = ALIGN (0x2)
+                0x000000e4                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000e4        0x0 linker stubs
+ *(.trampolines*)
+                0x000000e4                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x000000e4                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000e4                __ctors_start = .
+ *(.ctors)
+                0x000000e4                __ctors_end = .
+                0x000000e4                __dtors_start = .
+ *(.dtors)
+                0x000000e4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000e4        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+                0x000000e4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000e4       0x10 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000f4       0x1a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+                0x000000f4                __do_copy_data
+ .init4         0x0000010e       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+                0x0000010e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000011e        0x6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ *(.init9)
+ *(.text)
+ .text          0x00000124        0x2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+                0x00000124                __vector_38
+                0x00000124                __vector_22
+                0x00000124                __vector_28
+                0x00000124                __vector_1
+                0x00000124                __vector_32
+                0x00000124                __vector_34
+                0x00000124                __vector_24
+                0x00000124                __vector_12
+                0x00000124                __vector_46
+                0x00000124                __bad_interrupt
+                0x00000124                __vector_6
+                0x00000124                __vector_31
+                0x00000124                __vector_35
+                0x00000124                __vector_39
+                0x00000124                __vector_3
+                0x00000124                __vector_23
+                0x00000124                __vector_30
+                0x00000124                __vector_45
+                0x00000124                __vector_11
+                0x00000124                __vector_13
+                0x00000124                __vector_17
+                0x00000124                __vector_19
+                0x00000124                __vector_56
+                0x00000124                __vector_7
+                0x00000124                __vector_49
+                0x00000124                __vector_41
+                0x00000124                __vector_43
+                0x00000124                __vector_27
+                0x00000124                __vector_5
+                0x00000124                __vector_33
+                0x00000124                __vector_47
+                0x00000124                __vector_4
+                0x00000124                __vector_44
+                0x00000124                __vector_9
+                0x00000124                __vector_2
+                0x00000124                __vector_21
+                0x00000124                __vector_15
+                0x00000124                __vector_29
+                0x00000124                __vector_40
+                0x00000124                __vector_8
+                0x00000124                __vector_48
+                0x00000124                __vector_14
+                0x00000124                __vector_53
+                0x00000124                __vector_10
+                0x00000124                __vector_50
+                0x00000124                __vector_16
+                0x00000124                __vector_18
+                0x00000124                __vector_20
+                0x00000124                __vector_42
+                0x00000126                . = ALIGN (0x2)
+ *(.text.*)
+ .text.test_check
+                0x00000126       0x54 JUnitTest.o
+                0x00000126                test_check
+ .text.main     0x0000017a       0x34 JUnitTest.o
+                0x0000017a                main
+ .text.led_on   0x000001ae       0x2a LED.o
+                0x000001ae                led_on
+ .text.led_off  0x000001d8       0x28 LED.o
+                0x000001d8                led_off
+ .text.all_leds_off
+                0x00000200       0x18 LED.o
+                0x00000200                all_leds_off
+ .text.all_leds_on
+                0x00000218       0x16 LED.o
+                0x00000218                all_leds_on
+ .text.lose     0x0000022e       0x22 LED.o
+                0x0000022e                lose
+ .text.check    0x00000250       0x6a sequence.o
+                0x00000250                check
+ .text.initPort
+                0x000002ba        0xc setup.o
+                0x000002ba                initPort
+ .text.getUserInput
+                0x000002c6       0xbe UserInput.o
+                0x000002c6                getUserInput
+ .text.usart_getchar
+                0x00000384       0x26 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .text.usart_putchar
+                0x000003aa       0x12 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .text.init_stdio
+                0x000003bc       0x98 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+                0x000003bc                init_stdio
+ .text.buffer_init
+                0x00000454       0x12 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+                0x00000454                buffer_init
+ .text.buffer_get_item
+                0x00000466       0x4e C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+                0x00000466                buffer_get_item
+ .text.buffer_put_item
+                0x000004b4       0x46 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+                0x000004b4                buffer_put_item
+ .text.serial_new_instance
+                0x000004fa      0x104 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                0x000004fa                serial_new_instance
+ .text.serial_send_byte
+                0x000005fe       0x30 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                0x000005fe                serial_send_byte
+ .text.__vector_25
+                0x0000062e       0x82 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                0x0000062e                __vector_25
+ .text.__vector_26
+                0x000006b0       0x96 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                0x000006b0                __vector_26
+ .text.__vector_36
+                0x00000746       0x82 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                0x00000746                __vector_36
+ .text.__vector_37
+                0x000007c8       0x96 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                0x000007c8                __vector_37
+ .text.__vector_51
+                0x0000085e       0x82 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                0x0000085e                __vector_51
+ .text.__vector_52
+                0x000008e0       0x96 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                0x000008e0                __vector_52
+ .text.__vector_54
+                0x00000976       0x82 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                0x00000976                __vector_54
+ .text.__vector_55
+                0x000009f8       0x96 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                0x000009f8                __vector_55
+ .text.libgcc.div
+                0x00000a8e       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                0x00000a8e                __udivmodsi4
+ .text.avr-libc
+                0x00000ad2      0x242 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x00000ad2                malloc
+                0x00000c02                free
+ .text.avr-libc
+                0x00000d14       0x26 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o)
+                0x00000d14                printf
+ .text.avr-libc
+                0x00000d3a      0x3fa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+                0x00000d3a                vfprintf
+ .text.avr-libc
+                0x00001134       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+                0x00001134                strnlen_P
+ .text.avr-libc
+                0x0000114a       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+                0x0000114a                strnlen
+ .text.avr-libc
+                0x00001160       0x78 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+                0x00001160                fputc
+ .text.avr-libc
+                0x000011d8       0xbc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+                0x000011d8                __ultoa_invert
+                0x00001294                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001294        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                0x00001294                _exit
+                0x00001294                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001294        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001298                _etext = .
+
+.data           0x00800200       0x56 load address 0x00001298
+                0x00800200                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800200        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x00800200                __malloc_heap_end
+                0x00800202                __malloc_heap_start
+                0x00800204                __malloc_margin
+ *(.data*)
+ .data.mystdout.1886
+                0x00800206        0xe C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .data._com_port_2_udr
+                0x00800214        0x8 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                0x00800214                _com_port_2_udr
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080021c       0x39 JUnitTest.o
+                                 0x41 (size before relaxing)
+ *(.gnu.linkonce.r*)
+                0x00800256                . = ALIGN (0x2)
+ *fill*         0x00800255        0x1 
+                0x00800256                _edata = .
+                0x00800256                PROVIDE (__data_end, .)
+
+.bss            0x00800256      0x11a
+                0x00800256                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss._com_tx_buffer
+                0x00800256       0x83 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .bss._com_rx_buffer
+                0x008002d9       0x83 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .bss._com_serial_instance
+                0x0080035c        0x2 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .bss._ser_handle
+                0x0080035e        0x8 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+ *(COMMON)
+ COMMON         0x00800366        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x00800366                __brkval
+                0x00800368                __flp
+ COMMON         0x0080036a        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+                0x0080036a                __iob
+                0x00800370                PROVIDE (__bss_end, .)
+                0x00001298                __data_load_start = LOADADDR (.data)
+                0x000012ee                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800370        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800370                _end = .
+                0x00800370                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x8c
+ *(.comment)
+ .comment       0x00000000       0x30 JUnitTest.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 LED.o
+ .comment       0x00000030       0x31 sequence.o
+ .comment       0x00000030       0x31 setup.o
+ .comment       0x00000030       0x31 UserInput.o
+ .comment       0x00000030       0x30 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+                                 0x31 (size before relaxing)
+ .comment       0x00000060       0x31 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .comment       0x00000060       0x31 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+ .comment       0x00000060       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .comment       0x00000060       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+ .comment       0x00000060       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o)
+ .comment       0x00000060       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000008c       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x210
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x40 JUnitTest.o
+ .debug_aranges
+                0x00000040       0x58 LED.o
+ .debug_aranges
+                0x00000098       0x48 sequence.o
+ .debug_aranges
+                0x000000e0       0x20 setup.o
+ .debug_aranges
+                0x00000100       0x28 UserInput.o
+ .debug_aranges
+                0x00000128       0x30 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .debug_aranges
+                0x00000158       0x48 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .debug_aranges
+                0x000001a0       0x70 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2ee2
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0xbbc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .debug_info    0x00000bbc      0x420 JUnitTest.o
+ .debug_info    0x00000fdc      0x42a LED.o
+ .debug_info    0x00001406      0x9cd sequence.o
+ .debug_info    0x00001dd3       0x82 setup.o
+ .debug_info    0x00001e55      0x3ca UserInput.o
+ .debug_info    0x0000221f      0x42d C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .debug_info    0x0000264c      0x210 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .debug_info    0x0000285c      0x686 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+
+.debug_abbrev   0x00000000     0x1558
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0xb1a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .debug_abbrev  0x00000b1a      0x14d JUnitTest.o
+ .debug_abbrev  0x00000c67      0x171 LED.o
+ .debug_abbrev  0x00000dd8      0x1dc sequence.o
+ .debug_abbrev  0x00000fb4       0x4f setup.o
+ .debug_abbrev  0x00001003       0xdc UserInput.o
+ .debug_abbrev  0x000010df      0x1ad C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .debug_abbrev  0x0000128c       0xde C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .debug_abbrev  0x0000136a      0x1ee C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+
+.debug_line     0x00000000     0x1364
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x1f9 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .debug_line    0x000001f9      0x1ce JUnitTest.o
+ .debug_line    0x000003c7      0x27f LED.o
+ .debug_line    0x00000646      0x43d sequence.o
+ .debug_line    0x00000a83       0xb2 setup.o
+ .debug_line    0x00000b35      0x1e7 UserInput.o
+ .debug_line    0x00000d1c      0x144 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .debug_line    0x00000e60      0x193 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .debug_line    0x00000ff3      0x371 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+
+.debug_frame    0x00000000      0x774
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xb8 JUnitTest.o
+ .debug_frame   0x000000b8       0xb8 LED.o
+ .debug_frame   0x00000170       0xd0 sequence.o
+ .debug_frame   0x00000240       0x24 setup.o
+ .debug_frame   0x00000264       0x34 UserInput.o
+ .debug_frame   0x00000298       0xa0 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .debug_frame   0x00000338       0x74 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .debug_frame   0x000003ac      0x3c8 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+
+.debug_str      0x00000000      0xadb
+ *(.debug_str)
+ .debug_str     0x00000000      0x3e6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .debug_str     0x000003e6      0x1e1 JUnitTest.o
+                                0x248 (size before relaxing)
+ .debug_str     0x000005c7       0xaf LED.o
+                                0x1f9 (size before relaxing)
+ .debug_str     0x00000676       0x52 sequence.o
+                                0x233 (size before relaxing)
+ .debug_str     0x000006c8        0xd setup.o
+                                0x17c (size before relaxing)
+ .debug_str     0x000006d5       0x16 UserInput.o
+                                0x1b1 (size before relaxing)
+ .debug_str     0x000006eb      0x21e C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+                                0x35e (size before relaxing)
+ .debug_str     0x00000909       0x53 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+                                0x22b (size before relaxing)
+ .debug_str     0x0000095c      0x17f C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+                                0x454 (size before relaxing)
+
+.debug_loc      0x00000000     0x1ce9
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x1a0 JUnitTest.o
+ .debug_loc     0x000001a0      0x35b LED.o
+ .debug_loc     0x000004fb      0x7d2 sequence.o
+ .debug_loc     0x00000ccd       0x74 UserInput.o
+ .debug_loc     0x00000d41      0x220 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .debug_loc     0x00000f61       0xe2 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .debug_loc     0x00001043      0xca6 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x1c0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x30 JUnitTest.o
+ .debug_ranges  0x00000030       0x48 LED.o
+ .debug_ranges  0x00000078       0x50 sequence.o
+ .debug_ranges  0x000000c8       0x10 setup.o
+ .debug_ranges  0x000000d8       0x18 UserInput.o
+ .debug_ranges  0x000000f0       0x20 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(atmega2560_drivers.o)
+ .debug_ranges  0x00000110       0x38 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(buffer.o)
+ .debug_ranges  0x00000148       0x78 C:\Users\monomalo\Downloads\stdio_driver\stdio_driver\libatmega2560_drivers.a(serial.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(MemoryGame_C.elf elf32-avr)
+LOAD linker stubs
